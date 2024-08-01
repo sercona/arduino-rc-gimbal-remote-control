@@ -1,4 +1,4 @@
-# Arduino-based RC (Remote Control) Transmitter Handset
+# Arduino RC (Remote Control) Transmitter Handset
 
 ![handset](images/diy_elrs_handset.png)
 
