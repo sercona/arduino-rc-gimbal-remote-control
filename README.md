@@ -1,6 +1,6 @@
 # Arduino-based RC (Remote Control) Transmitter Handset
 
-![handset](diy_elrs_handset.png)
+![handset](images/diy_elrs_handset.png)
 
 * Purpose:
   - This 3d printable shell and Arduino source code will let you build your own RC transmitter for planes, quadcopters, rovers, boats, robots, etc.
@@ -20,7 +20,7 @@
 
 
 * 3D print STL files in the stl folder
-  ![3dprints](3d-printables.png)
+  ![3dprints](images/3d-printables.png)
 
 * Based on work from (not a full list, if I missed you, please let me know):
   - https://github.com/dbloemhard/Arduino-Transmitter-for-ELRS3.x
@@ -30,8 +30,8 @@
 
 * Views of the 3d printable:
   
-![modifiedtop](modified-top-stl.png)
+![modifiedtop](images/modified-top-stl.png)
 
-![modifiedtop2](modified-top-stl-2.png)
+![modifiedtop2](images/modified-top-stl-2.png)
 
-![modifiedtop](modified-top-stl-3.png)
+![modifiedtop](images/modified-top-stl-3.png)
