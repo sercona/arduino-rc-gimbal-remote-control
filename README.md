@@ -23,8 +23,8 @@
   ![3dprints](3d-printables.png)
 
 
-![modified_top]modified-top-stl.png)
+![modifiedtop](modified-top-stl.png)
 
-![modified_top2]modified-top-stl-2.png)
+![modifiedtop2](modified-top-stl-2.png)
 
-![modified_top]3modified-top-stl-3.png)
+![modifiedtop](3modified-top-stl-3.png)
