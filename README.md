@@ -24,6 +24,7 @@
 
 * Based on work from (not a full list, if I missed you, please let me know):
   - https://github.com/kkbin505/Arduino-Transmitter-for-ELRS
+  - https://www.thingiverse.com/thing:5330493
   - https://github.com/dbloemhard/Arduino-Transmitter-for-ELRS3.x
   - https://github.com/cruwaller/elrs_handset
   - https://www.thingiverse.com/thing:6677484
