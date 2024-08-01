@@ -28,6 +28,8 @@
   - https://www.thingiverse.com/thing:6677484
       - The thingiverse 'TinyTX' has some of the best instructions for building this circuit.  Its the same circuit.
 
+* Views of the 3d printable:
+  
 ![modifiedtop](modified-top-stl.png)
 
 ![modifiedtop2](modified-top-stl-2.png)
