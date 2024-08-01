@@ -27,4 +27,4 @@
 
 ![modifiedtop2](modified-top-stl-2.png)
 
-![modifiedtop](3modified-top-stl-3.png)
+![modifiedtop](modified-top-stl-3.png)
