@@ -22,6 +22,11 @@
 * 3D print STL files in the stl folder
   ![3dprints](3d-printables.png)
 
+* Based on work from (not a full list, if I missed you, please let me know):
+  - https://github.com/dbloemhard/Arduino-Transmitter-for-ELRS3.x
+  - https://github.com/cruwaller/elrs_handset
+  - https://www.thingiverse.com/thing:6677484
+      - The thingiverse 'TinyTX' has some of the best instructions for building this circuit.  Its the same circuit.
 
 ![modifiedtop](modified-top-stl.png)
 
